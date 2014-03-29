@@ -1,0 +1,44 @@
+﻿<Window x:Class="AppurpleKinectProto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Appurple - Kinect shopping Proto. Version 1.0" Height="768" Width="1024" WindowStartupLocation="CenterScreen" MaxHeight="768" MaxWidth="1024" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+        <Canvas Grid.RowSpan="2">
+            <Canvas.Background>
+                <LinearGradientBrush>
+                    <GradientStop Offset="1.5" Color="Purple"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Label Name="lblcposition" Canvas.Left="833" Canvas.Top="5"  Content="Current position" Height="42" Foreground="White" FontSize="15" Width="118" FlowDirection="RightToLeft" />
+            <StackPanel Canvas.Left="827" Canvas.Top="25" Orientation="Horizontal" FlowDirection="LeftToRight">
+                <Label Content="{Binding Path=X, Mode=TwoWay}" Height="42" Name="labelX" Foreground="White" FontSize="15" Width="60" FlowDirection="RightToLeft" />
+                <Label Content="{Binding Path=Y, Mode=TwoWay}" Height="42" Name="labelY" Foreground="Yellow" FontSize="15" Width="60" FlowDirection="RightToLeft" />
+            </StackPanel>
+            
+            <TextBlock Name="statusText" Canvas.Left="50" Canvas.Top="10
+                       " FlowDirection="LeftToRight" FontSize="15" Foreground="White" Height="42"  Width="769" Text="Welcome. Using your right hand, swipe across, and touch a head, to continue." />
+
+            <Border Grid.Row="0" Width="900" Height="550"  CornerRadius="10" BorderBrush="White" Background="white" Canvas.Left="49" Canvas.Top="73">
+                <Border.BitmapEffect>
+                    <DropShadowBitmapEffect Color="Black"  Direction="100" ShadowDepth="5"></DropShadowBitmapEffect>
+                </Border.BitmapEffect>
+                <Frame Name="sourceFrame" NavigationUIVisibility="Hidden">
+
+                </Frame>
+            </Border>
+            <Image Name="thedot" Source="/AppurpleKinectProto;component/images/rd.png"  />
+        </Canvas>
+
+        <Image  Grid.Row="1" Name="image1" Source="/AppurpleKinectProto;component/logo.png" Margin="800,0,0,0"  />
+        
+        <TextBlock Grid.Row="1" Foreground="White" FontStyle="Italic" Margin="50,0,0,0">
+            Copyright Appurple 2013. All rights reserved. Product deployed under demo routine. Author : Shankar. Version 1.0<LineBreak></LineBreak>
+            All products mentioned above belong to respective owner(s). Photos under creative commons. Licensed by photobucket.com
+        </TextBlock>
+        
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+﻿<Page x:Class="AppurpleKinectProto.mainpage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      Width="880" Height="530"
+	Title="mainpage" Loaded="Page_Loaded">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="440"></ColumnDefinition>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="/AppurpleKinectProto;component/images/1.png" Stretch="UniformToFill">
+            
+        </Image>
+        <Image Grid.Column="1" Source="/AppurpleKinectProto;component/images/2.png" Stretch="UniformToFill">
+
+        </Image>
+    </Grid>
+</Page>

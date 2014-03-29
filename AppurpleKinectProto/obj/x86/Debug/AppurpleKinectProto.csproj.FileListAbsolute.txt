@@ -1,0 +1,17 @@
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\bin\Debug\AppurpleKinectProto.exe
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\bin\Debug\AppurpleKinectProto.pdb
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\MainWindow.baml
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\App.g.cs
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\AppurpleKinectProto_MarkupCompile.cache
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\AppurpleKinectProto.g.resources
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\AppurpleKinectProto.Properties.Resources.resources
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\AppurpleKinectProto.csproj.GenerateResource.Cache
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\AppurpleKinectProto.exe
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\AppurpleKinectProto.pdb
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\mainpage.baml
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\mainpage.g.cs
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\productpage.baml
+C:\Users\Morvo2\SkyDrive\Documents\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\productpage.g.cs
+K:\5-2 PROJECT\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\AppurpleKinectProto.exe
+K:\5-2 PROJECT\Review Project Work\AppurpleKinectProto\AppurpleKinectProto\obj\x86\Debug\AppurpleKinectProto.pdb
